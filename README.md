@@ -28,4 +28,4 @@ We welcome contributions from the community! If you'd like to contribute to Baby
 - Submit a pull request
 
 ## Contact
-If you have any questions or suggestions regarding BabyHealthClassifier, feel free to contact us at [insert contact email or link to issue tracker].
+If you have any questions or suggestions regarding BabyHealthClassifier, feel free to contact us at <a>connect.to.smitraval@gmail.com</a>
